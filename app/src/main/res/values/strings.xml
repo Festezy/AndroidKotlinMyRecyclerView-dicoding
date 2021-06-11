@@ -2,4 +2,10 @@
     <string name="app_name">MyRecyclerView</string>
     <string name="heroes_name">Nama Pahlawan</string>
     <string name="detail">Detail</string>
+    <string name="menulist">List</string>
+    <string name="menugrid">Grid</string>
+    <string name="menu_with_cardview">with CardView</string>
+    <string name="btnfavorite">favorite</string>
+    <string name="btnshare">share</string>
+    <string name="cDheroimage">Heroimage</string>
 </resources>
